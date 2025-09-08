@@ -1,0 +1,33 @@
+-BEGIN HEADER-
+NASA/POWER CERES/MERRA2 Native Resolution Climatology Climatologies 
+20-year Meteorological and Solar Monthly & Annual Climatologies (January 2001 - December 2020) 
+Location: Latitude  22.8199   Longitude 83.2828 
+Elevation from MERRA-2: Average for 0.5 x 0.625 degree lat/lon region = 630.4 meters
+The value for missing source data that cannot be computed or is outside of the sources availability range: -999 
+Parameter(s): 
+CLOUD_AMT               SRB V4/CERES SYN1deg Cloud Amount (%) 
+TOA_SW_DWN              SRB V4/CERES SYN1deg Top-Of-Atmosphere Shortwave Downward Irradiance (MJ/m^2/day) 
+ALLSKY_SFC_UVA          SRB V4/CERES SYN1deg All Sky Surface UVA Irradiance (W/m^2) 
+ALLSKY_SFC_UVB          SRB V4/CERES SYN1deg All Sky Surface UVB Irradiance (W/m^2) 
+ALLSKY_SRF_ALB          SRB V4/CERES SYN1deg All Sky Surface Albedo (dimensionless) 
+ALLSKY_SFC_SW_DNI       SRB V4/CERES SYN1deg All Sky Surface Shortwave Downward Direct Normal Irradiance (MJ/m^2/day) 
+ALLSKY_SFC_SW_DWN       SRB V4/CERES SYN1deg All Sky Surface Shortwave Downward Irradiance (MJ/m^2/day) 
+CLRSKY_SFC_SW_DWN       SRB V4/CERES SYN1deg Clear Sky Surface Shortwave Downward Irradiance (MJ/m^2/day) 
+ALLSKY_SFC_PAR_TOT      SRB V4/CERES SYN1deg All Sky Surface PAR Total (W/m^2) 
+ALLSKY_SFC_SW_DIFF      SRB V4/CERES SYN1deg All Sky Surface Shortwave Diffuse Irradiance (MJ/m^2/day) 
+CLRSKY_SFC_PAR_TOT      SRB V4/CERES SYN1deg Clear Sky Surface PAR Total (W/m^2) 
+ALLSKY_SFC_UV_INDEX     SRB V4/CERES SYN1deg All Sky Surface UV Index (dimensionless) 
+-END HEADER-
+PARAMETER,JAN,FEB,MAR,APR,MAY,JUN,JUL,AUG,SEP,OCT,NOV,DEC,ANN
+CLOUD_AMT,27.06,30.25,37.44,35.49,51.24,81.02,92.49,90.61,74.54,37.22,18.14,23.98,50.08
+TOA_SW_DWN,25.61,29.6,34.19,37.7,39.44,39.87,39.47,38.06,35.19,30.93,26.57,24.29,33.42
+ALLSKY_SFC_UVA,9.23,11.37,13.18,15.5,15.85,12.73,10.51,10.48,11.2,11.39,9.83,8.62,11.65
+ALLSKY_SFC_UVB,0.21,0.28,0.35,0.43,0.44,0.36,0.31,0.31,0.32,0.29,0.23,0.19,0.31
+ALLSKY_SRF_ALB,0.13,0.13,0.14,0.15,0.15,0.16,0.14,0.15,0.12,0.13,0.13,0.13,0.14
+ALLSKY_SFC_SW_DNI,16.65,18.36,17.96,21.69,18.66,10.67,5.74,6.23,9.72,16.17,18.76,17.08,14.78
+ALLSKY_SFC_SW_DWN,15.48,18.4,21.0,23.9,23.91,18.43,14.01,14.01,15.81,17.48,16.25,14.7,17.77
+CLRSKY_SFC_SW_DWN,16.65,19.86,22.97,25.81,26.3,25.13,25.2,24.5,22.33,19.9,16.98,15.42,21.76
+ALLSKY_SFC_PAR_TOT,76.62,92.29,105.9,122.48,124.84,98.85,77.72,77.26,85.31,90.64,81.55,72.49,92.11
+ALLSKY_SFC_SW_DIFF,6.22,6.99,8.39,7.96,9.23,9.91,9.48,9.32,8.86,6.98,5.52,5.43,7.86
+CLRSKY_SFC_PAR_TOT,82.78,99.83,115.67,131.3,135.85,132.46,135.2,131.54,118.84,103.49,85.93,76.68,112.51
+ALLSKY_SFC_UV_INDEX,-999.0,-999.0,-999.0,-999.0,-999.0,-999.0,-999.0,-999.0,-999.0,-999.0,-999.0,-999.0,-999.0
